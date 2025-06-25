@@ -47,7 +47,7 @@ Editar
 
 1. Clone o projeto:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Cristyan14/tabela-fipe.git
 Importe no Eclipse como um projeto Java.
 
 Execute a classe Principal.java:
