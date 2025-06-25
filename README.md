@@ -9,6 +9,7 @@ Este é um projeto Java que permite consultar veículos (carros, motos e caminh�
 - Java 17+
 - Biblioteca `java.net.http.HttpClient` (para requisições HTTP)
 - Streams e Lambdas (Java 8+)
+- Biblioteca [`Jackson`](https://github.com/FasterXML/jackson) (para conversão de JSON)
 - API pública: https://parallelum.com.br/fipe/api/v1/
 
 ---
@@ -92,6 +93,7 @@ Modelo: Corolla XEi 2.0 Flex 16V Aut.
 Ano: 2023
 Valor: R$ 145.000,00
 ...
+
 📋 Notas
 A aplicação faz uso extensivo de Optional, Stream, e Collectors para processar os dados.
 
